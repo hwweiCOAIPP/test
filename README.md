@@ -2,6 +2,8 @@
 
 ## 第一個測試readme
 
-1. this readme is for python file
+- this readme is for python file
 
-1. and for your referebce
+- and for your referebce
+
+# write down your student ID, ex :   400123123
